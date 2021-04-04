@@ -1,5 +1,5 @@
 def load_model():
-    # model = load_model('Alfred_model_trained_CNN3.hdf5',compile = False)
+    model = load_model('Alfred_model_trained_CNN3.hdf5',compile = False)
     print("loaded model")
     return model
 
