@@ -1,0 +1,2 @@
+- Training data can be found here: https://drive.google.com/drive/folders/1Mlg2Ev6qV2f91hih0uOblxtgL_0epUcn?usp=sharing
+- Drag into this folder if you want to retrain the algo's
