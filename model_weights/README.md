@@ -1,6 +1,6 @@
 - Model weights are too big for git hub, pull model weights here:
 - YOLOv4:  https://drive.google.com/u/0/uc?export=download&confirm=DT2e&id=177YY8_lGrU29WdJhVcfPvBheAd0fuknj
 - YOLOv3:  https://drive.google.com/u/0/uc?export=download&confirm=BWb2&id=1MLhXrwToWOc_mm9P0U2K9I6sB1GUHYnr
-- SSD: 
-- CNN: 
-- FASTER-RCNN: 
+- SSD: https://drive.google.com/drive/u/1/folders/1DBT3ya3SYmOtWJWb361_rl3crMhmmoHq
+- CNN: https://drive.google.com/drive/u/1/folders/1WC7BH9UdmwZ-a_4lpQ4XNMznf9KDpT1C
+- FASTER-RCNN: https://drive.google.com/drive/u/1/folders/1pk_Hrr2sRAg6wO_9ii2QSGfT_zT9MzeA
